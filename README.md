@@ -1,4 +1,4 @@
-# vue-screenfull v0.0.1
+# vue-screenfull v0.1.1
 
 ## Install
 
