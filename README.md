@@ -6,7 +6,7 @@
 $ npm install --save vue-screenfull
 ```
 
-## Examples
+## Example
 
 ```
 <template>
