@@ -1,31 +1,50 @@
-# vue-screenfull v0.1.1
+# mazey-npm-template
+
+[![NPM version][npm-image]][npm-url]
+[![l][l-image]][l-url]
+
+[npm-image]: https://img.shields.io/npm/v/mazey-npm-template
+[npm-url]: https://npmjs.org/package/mazey-npm-template
+[l-image]: https://img.shields.io/npm/l/mazey-npm-template
+[l-url]: https://github.com/mazeyqian/mazey-npm-template
+
+Mazey NPM template.
 
 ## Install
 
-```
-$ npm install --save vue-screenfull
-```
-
-## Example
+You can get mazey-npm-template via [npm](https://www.npmjs.com/package/mazey-npm-template).
 
 ```
-<template>
-  <div class="demo-vue-screenfull">
-    <h1>Vue Screenfull Demo</h1>
-    <vue-screenfull></vue-screenfull>
-  </div>
-</template>
-
-<script>
-  import VueScreenfull from 'vue-screenfull'
-  export default {
-    name: 'demo-vue-screenfull',
-    components: {VueScreenfull}
-  }
-</script>
+npm install mazey-npm-template --save
 ```
 
+## Usage
 
-## License
+Foo description.
 
-MIT © [MazeyQian](https://blog.mazey.net)
+```
+import { foo } from 'mazey-npm-template';
+
+foo();
+```
+
+Bar description.
+
+```
+import { bar } from 'mazey-npm-template';
+
+bar();
+```
+
+## Develop
+
+```
+# dev
+npm run dev
+
+# build
+npm run build
+
+# documentation
+npm run docs
+```
