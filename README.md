@@ -1,21 +1,21 @@
-# mazey-npm-template
+# vue-screenfull
 
 [![NPM version][npm-image]][npm-url]
 [![l][l-image]][l-url]
 
-[npm-image]: https://img.shields.io/npm/v/mazey-npm-template
-[npm-url]: https://npmjs.org/package/mazey-npm-template
-[l-image]: https://img.shields.io/npm/l/mazey-npm-template
-[l-url]: https://github.com/mazeyqian/mazey-npm-template
+[npm-image]: https://img.shields.io/npm/v/vue-screenfull
+[npm-url]: https://npmjs.org/package/vue-screenfull
+[l-image]: https://img.shields.io/npm/l/vue-screenfull
+[l-url]: https://github.com/mazeyqian/vue-screenfull
 
-Mazey NPM template.
+A Vue3 component for Fullscreen.
 
 ## Install
 
-You can get mazey-npm-template via [npm](https://www.npmjs.com/package/mazey-npm-template).
+You can get vue-screenfull via [npm](https://www.npmjs.com/package/vue-screenfull).
 
 ```
-npm install mazey-npm-template --save
+npm install vue-screenfull --save
 ```
 
 ## Usage
@@ -23,7 +23,7 @@ npm install mazey-npm-template --save
 Foo description.
 
 ```
-import { foo } from 'mazey-npm-template';
+import { foo } from 'vue-screenfull';
 
 foo();
 ```
@@ -31,7 +31,7 @@ foo();
 Bar description.
 
 ```
-import { bar } from 'mazey-npm-template';
+import { bar } from 'vue-screenfull';
 
 bar();
 ```
