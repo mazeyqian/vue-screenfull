@@ -1,4 +1,4 @@
-# vue-screenfull
+# Vue Screenfull
 
 [![NPM version][npm-image]][npm-url]
 [![l][l-image]][l-url]
