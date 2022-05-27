@@ -3,5 +3,3 @@
 //   let connection: string;
 // }
 
-// mazey
-// declare module 'mazey';
