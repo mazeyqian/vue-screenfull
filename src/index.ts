@@ -1,4 +1,4 @@
-/* Function */
+/* Vue Screenfull */
 
 import { isNumber } from 'mazey';
 
