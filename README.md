@@ -8,7 +8,7 @@
 [l-image]: https://img.shields.io/npm/l/vue-screenfull
 [l-url]: https://github.com/mazeyqian/vue-screenfull
 
-A **Vue3** component for Fullscreen.
+A **Vue3+** component for Fullscreen.
 
 ## Install
 
