@@ -1,21 +1,22 @@
 /* Vue Screenfull */
 
 import { isNumber } from 'mazey';
+import { defineComponent } from 'vue'; // TypeScript with Options API https://vuejs.org/guide/typescript/options-api.html
 
-/**
- * @method foo
- * @description Foo description.
- * @return {Boolean} true or false
- */
-export function foo(): boolean {
-  return isNumber(-1);
-}
-
-/**
- * @method bar
- * @description Bar description.
- * @return {Boolean} true or false
- */
- export function bar(): boolean {
-  return isNumber(NaN);
-}
+export default defineComponent({
+  // type inference enabled
+  props: {
+    name: String,
+    msg: { type: String, required: true }
+  },
+  data() {
+    return {
+      count: 1
+    };
+  },
+  mounted() {
+    this.name; // type: string | undefined
+    this.msg; // type: string
+    this.count; // type: number
+  }
+});
