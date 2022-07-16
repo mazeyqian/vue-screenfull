@@ -1,31 +1,40 @@
-# vue-screenfull v0.1.1
+# Vue Screenfull
+
+[![NPM version][npm-image]][npm-url]
+[![l][l-image]][l-url]
+
+[npm-image]: https://img.shields.io/npm/v/vue-screenfull
+[npm-url]: https://npmjs.org/package/vue-screenfull
+[l-image]: https://img.shields.io/npm/l/vue-screenfull
+[l-url]: https://github.com/mazeyqian/vue-screenfull
+
+A **Vue3+** component for Fullscreen.
 
 ## Install
 
-```
-$ npm install --save vue-screenfull
-```
-
-## Example
+You can get vue-screenfull via [npm](https://www.npmjs.com/package/vue-screenfull).
 
 ```
-<template>
-  <div class="demo-vue-screenfull">
-    <h1>Vue Screenfull Demo</h1>
-    <vue-screenfull></vue-screenfull>
-  </div>
-</template>
-
-<script>
-  import VueScreenfull from 'vue-screenfull'
-  export default {
-    name: 'demo-vue-screenfull',
-    components: {VueScreenfull}
-  }
-</script>
+npm install vue-screenfull --save
 ```
 
+## Usage
 
-## License
+I am Coding it...
 
-MIT © [MazeyQian](https://blog.mazey.net)
+```
+// pass
+```
+
+## Develop
+
+```
+# dev
+npm run dev
+
+# build
+npm run build
+
+# documentation
+npm run docs
+```
