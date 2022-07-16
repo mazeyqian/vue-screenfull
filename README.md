@@ -20,20 +20,10 @@ npm install vue-screenfull --save
 
 ## Usage
 
-Foo description.
+I am Coding it...
 
 ```
-import { foo } from 'vue-screenfull';
-
-foo();
-```
-
-Bar description.
-
-```
-import { bar } from 'vue-screenfull';
-
-bar();
+// pass
 ```
 
 ## Develop
